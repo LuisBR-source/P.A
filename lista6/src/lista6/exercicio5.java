@@ -16,7 +16,7 @@ public class exercicio5 {
 		b = new int[Const];
 		c = new int [Const];
 		
-		//leitura dos dados
+		
 	
 		for (i=0;i<Const;i++) {
 		System.out.println("Digite "+(i+1)+" numero");
@@ -25,7 +25,7 @@ public class exercicio5 {
 		c[i]= a[i];
 		}
 		
-		// colocando em ordem decrescente 
+		
 		
 			for(i=0;i<Const;i++){
 			
@@ -62,7 +62,7 @@ public class exercicio5 {
 			}
 		
 		}
-			//apresentando os valores
+			
 		for(i=0;i<Const; i++) {
 			
 		System.out.print(a[i]+"\n ");
